@@ -1,6 +1,6 @@
 # IgorASB
 
-Estudante de **Ciência da Computação** focado em **backend** e desenvolvimento de software com Python, C, HTML e CSS. Projetos orientados a lógica de programação e regras de negócio.
+Estudante de **Ciência da Computação** focado em **backend** e desenvolvimento de software com Python, C. Projetos orientados a lógica de programação e regras de negócio.
 
 ## 💻 Tecnologias
 - Python
