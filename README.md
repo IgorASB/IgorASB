@@ -5,8 +5,6 @@ Estudante de **Ciência da Computação** focado em **backend** e desenvolviment
 ## 💻 Tecnologias
 - Python
 - C
-- HTML5
-- CSS3
 - Git e GitHub
 - Programação orientada a objetos
 
@@ -17,7 +15,7 @@ Estudante de **Ciência da Computação** focado em **backend** e desenvolviment
 - **Calculadora-basica** — calculadora em C com menu, validação de divisão por zero e repetição de operações.
 
 ## 🎯 Objetivo
-Buscar oportunidade inicial como **desenvolvedor backend**, aprofundando conhecimentos em APIs, banco de dados e desenvolvimento full stack.
+Buscar oportunidade inicial como **desenvolvedor backend**, aprofundando conhecimentos em APIs, banco de dados.
 
 ## 📬 Contato
 - GitHub: [github.com/IgorASB](https://github.com/IgorASB)
