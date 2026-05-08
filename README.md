@@ -55,9 +55,9 @@ Estudante de **Ciência da Computação** apaixonado por backend, lógica de pro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IgorASB&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=IgorASB&theme=dracula&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorASB&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorASB&layout=compact&theme=dracula&hide_border=true&langs_count=6)](https://github.com/IgorASB)
 
 </div>
 
