@@ -30,8 +30,6 @@ Estudante de **Ciência da Computação** apaixonado por backend, lógica de pro
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -57,8 +55,9 @@ Estudante de **Ciência da Computação** apaixonado por backend, lógica de pro
 
 <div align="center">
 
-![Igor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgorASB&show_icons=true&theme=dracula&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorASB&layout=compact&theme=dracula&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=IgorASB&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorASB&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
 
