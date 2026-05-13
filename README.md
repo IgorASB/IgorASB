@@ -68,11 +68,6 @@ Estudante de **Ciência da Computação** apaixonado por backend, lógica de pro
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=IgorASB&theme=dracula&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
-### 💻 Linguagens mais usadas
-
-![Python](https://img.shields.io/badge/Python-74%25-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-26%25-00599C?style=flat-square&logo=c&logoColor=white)
-
 </div>
 
 ---
